@@ -1,0 +1,27 @@
+==================================================
+           COMPLIANCE AUDIT CASE REPORT           
+==================================================
+
+Case ID: CASE_005289AAB
+Tenant ID: tenant_a
+Account ID: 005289AAB
+Risk Score: 100.0%
+Anomaly Score: 0.573
+Status: ESCALATED
+Queue: Senior AML Investigator
+
+==================================================
+              AI INVESTIGATION SUMMARY            
+==================================================
+
+[WHAT HAPPENED]
+The account (ID: 005289AAB) exhibits multiple severe compliance and fraud anomalies. These include deliberate attempts to evade detection by structuring transactions just below the $10,000 reporting threshold, coupled with a high volume of activity (71 transactions; total volume $591,780.40). The account lacks proper Know Your Customer (KYC) verification and shows significant mismatches regarding identity documentation, declared income versus transaction volume, and stated account purpose.
+
+[WHY IT MATTERS]
+The combination of structuring behavior, high-volume transactions, và unresolved KYC deficiencies indicates a significantly elevated risk for money laundering, terrorist financing, and fraud. Structuring violates BSA/AML regulations and suggests criminal intent to obscure the source and nature of funds. The lack of verified identity documentation and income mismatch makes it impossible to validate the legitimacy of the account's activity.
+
+[RECOMMENDED ACTION]
+Immediate account freeze and escalation for review by the Financial Crimes Investigations Unit (FCIU). Initiate a Suspicious Activity Report (SAR) filing due to evidence of structuring, high-volume transactions lacking source verification, and multiple severe KYC deficiencies.
+
+[CONFIDENCE SCORE]
+10000.0%
